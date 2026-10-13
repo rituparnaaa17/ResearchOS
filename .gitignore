@@ -1,0 +1,21 @@
+# Large data & model files (too big for GitHub)
+*.csv
+*.npz
+*.pkl
+*.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv
+env/
+venv/
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
